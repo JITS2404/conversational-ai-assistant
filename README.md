@@ -36,7 +36,7 @@ Learning platform for experimenting with AI + mobile apps
 
 **🔹 Why This Project?**
 
-Jarvis was developed as a hands-on project to explore how AI can be integrated into real-time communication systems and extended to Android applications. It demonstrates skills in:
+Cerebra was developed as a hands-on project to explore how AI can be integrated into real-time communication systems and extended to Android applications. It demonstrates skills in:
 
 Python-based AI development
 
@@ -66,7 +66,7 @@ Step1:Windows
   (Optional) Android Studio if you’ll run this on phone later 
   
 2.Create a project & venv
-   mkdir jarvis-agent && cd jarvis-agent
+   mkdir cerebra-agent && cd jarvis-agent
   python -m venv venv
   venv\Scripts\activate
   
@@ -298,7 +298,7 @@ With venv active and .env set, run:
 python agent.py console
 
 
-Speak into your mic: “Hey Jarvis, what can you do?”
+Speak into your mic: “Hey Cerebra, what can you do?”
 You should hear a spoken reply.
  
 
