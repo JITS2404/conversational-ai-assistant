@@ -1,6 +1,6 @@
-**Jarvis – AI-Powered Conversational Assistant**
+**Cerebra – AI-Powered Conversational Assistant**
 
-Jarvis is an AI-driven virtual assistant built with Python, Android Studio, and LiveKit sandbox, designed to enable real-time conversations, intelligent responses, and seamless cross-platform interaction. It combines the flexibility of Python with the mobility of Android, making it accessible on both desktop and mobile.
+Cerebra is an AI-driven virtual assistant built with Python, Android Studio, and LiveKit sandbox, designed to enable real-time conversations, intelligent responses, and seamless cross-platform interaction. It combines the flexibility of Python with the mobility of Android, making it accessible on both desktop and mobile.
 
 **🔹 Key Features**
 
